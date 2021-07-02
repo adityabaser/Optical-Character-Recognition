@@ -7,12 +7,15 @@ We are going to test out printed and a handwritten images and access the extract
 
 ## Installation of required modules
 
+For PyTesseract, one need to first download the extension from the given link here, https://github.com/UB-Mannheim/tesseract/wiki
+
+Specify the path,
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+
 * pip install pytesseract
 * pip install pipenv
 * pip install Pillow
 * pip install Flask
-
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 ## Flask Application
 
