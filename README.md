@@ -6,9 +6,13 @@ PyTesseract is an optical character recognition package developed by Google to r
 ## Installation of required modules
 
 pip install pytesseract
+
 pip install pipenv
+
 pip install Pillow
+
 pip install Flask
+
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 ## Flask Application
