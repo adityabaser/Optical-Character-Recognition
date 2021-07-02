@@ -1,7 +1,7 @@
 # Optical-Character-Recognition
 Building out a Flask application having OCR capabilities to detect text from images using PyTesseract. 
 
-PyTesseract is an optical character recognition package developed by Google to recognize and read the text embedded in images. I also build a Flask Application to make it more user friendly for the user to use the product. 
+PyTesseract is an optical character recognition package developed by Google to recognize and read the text embedded in images. I also built a Flask Application to make it more user friendly for the user to use the product. 
 
 We are going to test out printed and a handwritten images and access the extracted text. 
 
