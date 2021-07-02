@@ -31,4 +31,10 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 ![Result Screenshot](https://github.com/adityabaser/Optical-Character-Recognition/blob/main/Screenshots/OCR%20Result%20Screenshot.PNG)
 
+### Conclusion and Future Work
+
+* This Flask Application can hence be used to extract information from images and can be used for further analysis. 
+* Text from documents/forms can be extracted and directly converted to Excel Sheets to reduce the effort of manual data entry. 
+* Future work would include working on increasing the accuracy of the extracted text and using fuzzy name matching as a consequent step to interpret extracted words.
+
 
