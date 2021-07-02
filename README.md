@@ -14,5 +14,5 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 ## Flask Application
 
-! [Test Image](https://github.com/adityabaser/Optical-Character-Recognition/blob/main/static/uploads/ocr_image1.PNG)
+![Test Image](https://github.com/adityabaser/Optical-Character-Recognition/blob/main/static/uploads/ocr_image1.PNG)
 
