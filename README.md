@@ -24,4 +24,6 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 ### Result 
 
+![Result Screenshot](https://github.com/adityabaser/Optical-Character-Recognition/blob/main/Screenshots/OCR%20Result%20Screenshot.PNG)
+
 
