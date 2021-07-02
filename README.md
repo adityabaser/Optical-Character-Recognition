@@ -20,6 +20,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 ### User Interface for the Flask Application 
 
+![User Interface](https://github.com/adityabaser/Optical-Character-Recognition/blob/main/Screenshots/Flask%20Application%20Interface%20Screenshot.PNG)
 
 ### Result 
 
